@@ -1,0 +1,6 @@
+{
+  "name": "PSB",
+  "description": "Private Security Box — encrypted vault with animal guardian, password, PIN, and secure compartments for files, photos, recordings, notes, and links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
